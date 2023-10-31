@@ -198,7 +198,7 @@ This integration is tested to work with the following models. If you have a diff
 | `ceiling1` | YLXD01YL     | Yeelight Ceiling Light                           |
 | `ceiling2` | YLXD03YL     | Yeelight Ceiling Light - Youth Version           |
 | ?          | YLXD62YI     | Yeelight Ceiling Light (Jiaoyue 260)             |
-| ?, may be `ceiling3` | YLXD04YL     | Yeelight Ceiling Light (Jiaoyue 450)   |
+| `ceiling3` | YLXD04YL     | Yeelight Ceiling Light (Jiaoyue 450)   |
 | `ceiling3` | YLXD05YL     | Yeelight Ceiling Light (Jiaoyue 480)             |
 | `ceiling4` | YLXD02YL     | Yeelight Ceiling Light (Jiaoyue 650)             |
 | `ceiling10`| YLDL01YL     | Yeelight Meteorite Pendant Light                 |
